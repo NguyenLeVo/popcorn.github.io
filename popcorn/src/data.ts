@@ -24,5 +24,6 @@ export const people = [
   { id: "14", name: "Mohamed", role: "QA" },
   { id: "15", name: "Nguyen", role: "ENGINEER" },
   { id: "16", name: "Royner", role: "ENGINEER" },
-  { id: "17", name: "Victoria", role: "DESIGN" },
+  { id: "17", name: "Shane", role: "ENGINEER" },
+  { id: "18", name: "Victoria", role: "DESIGN" },
 ];
